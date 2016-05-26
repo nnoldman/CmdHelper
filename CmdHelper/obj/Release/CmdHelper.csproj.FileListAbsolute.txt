@@ -1,0 +1,9 @@
+D:\vsproj\CmdHelper\CmdHelper\bin\Release\CmdHelper.exe.config
+D:\vsproj\CmdHelper\CmdHelper\bin\Release\CmdHelper.exe
+D:\vsproj\CmdHelper\CmdHelper\bin\Release\CmdHelper.pdb
+D:\vsproj\CmdHelper\CmdHelper\obj\Release\CmdHelper.Form1.resources
+D:\vsproj\CmdHelper\CmdHelper\obj\Release\CmdHelper.Properties.Resources.resources
+D:\vsproj\CmdHelper\CmdHelper\obj\Release\CmdHelper.csproj.GenerateResource.Cache
+D:\vsproj\CmdHelper\CmdHelper\obj\Release\CmdHelper.exe
+D:\vsproj\CmdHelper\CmdHelper\obj\Release\CmdHelper.pdb
+D:\vsproj\CmdHelper\CmdHelper\obj\Release\CmdHelper.csprojResolveAssemblyReference.cache
